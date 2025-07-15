@@ -19,7 +19,7 @@ I'm a **Senior Software Engineer** with 3.9 years ofexperience specializing in A
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/deepak-kumar-b8902b1b3)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/deepak-kumar-b8902b1b3)  📧 **Email:** dk0478767@gmail.com  💬 **WhatsApp:** [+91 7830357882](https://wa.me/917830357882)
 
 ---
 

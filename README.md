@@ -2,11 +2,11 @@
 
 ## 🚀 About Me
 
-I'm a **Senior Software Engineer** with 3.9 years of hands-on experience, specializing in the e-commerce domain. My expertise lies in building robust, scalable, and high-performance web solutions.
+I'm a **Senior Software Engineer** with 3.9 years ofexperience specializing in Adobe Commerce (Magento 2) e-commerce development. Proven expertise in designing, developing, and maintaining complex e-commerce platforms, ensuring optimal performance and seamless user experiences. Committed to staying updated with the latest industry trends and technologies to drive continuous improvement and innovation. My expertise lies in building robust, scalable, and high-performance web solutions.
 
 - 💼 **Profession:** Senior Software Engineer
 - 🕒 **Experience:** 3.9 years in software development
-- 🛒 **Domain:** E-commerce
+- 🛒 **Domain:** E-commerce || Magento
 
 ## 🛠️ Skills & Technologies
 
